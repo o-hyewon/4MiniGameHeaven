@@ -1,4 +1,4 @@
-# JavaFXMiniProject
+# 4MiniGameHeaven
 4가지 게임 도장깨기 도전 !!
 
 
